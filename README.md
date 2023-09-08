@@ -14,5 +14,7 @@ Após terminar de instalar os pacotes execute os seguintes comando:
 
 *npm run start-server*
 
-Depois executar
+Depois executar:
+
+
 *npm run dashboard*
