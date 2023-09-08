@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "serverURL": "http://localhost:1337/parse",
+        "appId": "ehr",
+        "masterKey": "JZqWMejDJWOvNd1of0w0G95BznXH03H2f35QhVwC",
+        "databaseURI": "mysql://root:@localhost:3306/gestao",
+        "appName": "MyApp"
+      }
+    ]
+  }

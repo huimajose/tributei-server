@@ -1,0 +1,7 @@
+{
+    "appId": "ehr-app",
+    "masterKey": "JZqWMejDJWOvNd1of0w0G95BznXH03H2f35QhVwC",
+    "databaseURI": "mysql://root:@localhost:3306/ehr",
+    "serverURL": "http://localhost:1337/parse"
+  }
+  
